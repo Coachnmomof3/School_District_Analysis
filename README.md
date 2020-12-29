@@ -7,9 +7,9 @@ The School board findings of a file showing evidence of academic dishonesty; spe
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 ### How is the district summary affected?
-![District_Summary_Before] (https://github.com/Coachnmomof3/School_District_Analysis/blob/master/Resources/District_Summary_Before.png)
+![District_Summary_Before](https://github.com/Coachnmomof3/School_District_Analysis/blob/master/Resources/District_Summary_Before.png)
 
-![District_Summary_After] (https://github.com/Coachnmomof3/School_District_Analysis/blob/master/Resources/District_Summary_After.png)
+![District_Summary_After](https://github.com/Coachnmomof3/School_District_Analysis/blob/master/Resources/District_Summary_After.png)
 
 - The district summary was not affected due to Thomas High School being a Charter School type. 
 -  
