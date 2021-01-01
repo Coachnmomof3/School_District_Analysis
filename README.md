@@ -23,7 +23,7 @@ Passing Reading Percentage(From 86% to 85%), Passing Math Percentage(From 75% to
 - ##### After
 ![School_Summary_Before](https://github.com/Coachnmomof3/School_District_Analysis/blob/master/Resources/School_Summary_After.png)
 
-### - School Summary Analysis
+### School Summary Analysis
 The school summary had a major affect, from the School summary before and after data frames above we can see that there is a significant difference from when freshman were included and when they are not being included. Our overall passing percentage goes from about 91% to 65%. Relative to other schools, Thomas High School dropped significantly considering it was one of the best high school in the district based overall passing both math and reading. Now it had dropped being one of 15 other schools.
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
@@ -31,7 +31,7 @@ Replacing the ninth graders' math and reading scores affected Thomas High School
 
 ### How does replacing the ninth-grade scores affect the following:
 
-#### Math and reading scores by grade
+#### **Math and reading scores by grade**
 
 - ##### Before
 ![Math and reading scores by grade before](https://github.com/Coachnmomof3/School_District_Analysis/blob/master/Resources/Math%20and%20Reading%20scores%20by%20grade%20before.png)
