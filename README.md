@@ -66,7 +66,7 @@ With Thomas High School being considered a medium sized high school there was a 
 - ##### Before
 ![Scores by school type before](https://github.com/Coachnmomof3/School_District_Analysis/blob/master/Resources/Scores%20by%20school%20type%20before.png)
 - ##### After
-![Scores by school type](https://github.com/Coachnmomof3/School_District_Analysis/blob/master/Resources/Scores%20by%20school%20size1.jpg)
+![Scores by school type](https://github.com/Coachnmomof3/School_District_Analysis/blob/master/Resources/Scores%20by%20school%20type1.jpg)
 
 Thomas High School is identified as a Charter school. It experienced a significant decrease in the following categories: Passing Math Percentage from 94% to 90%, Passing Reading Percentage from 97% to 93%, and the Overall Passing Percentage from 90% to 87%. Our averages stayed consistant for both reading and math.
 
