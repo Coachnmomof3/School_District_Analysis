@@ -30,21 +30,38 @@ Replacing the ninth graders' math and reading scores affected Thomas High School
 ### How does replacing the ninth-grade scores affect the following:
 
 #### Math and reading scores by grade
+
+##### Before
+![Math and reading scores by grade before](https://github.com/Coachnmomof3/School_District_Analysis/blob/master/Resources/Math%20and%20Reading%20scores%20by%20grade%20before.png)
+##### After
 ![Math and reading scores by grade](https://github.com/Coachnmomof3/School_District_Analysis/blob/master/Resources/Math%20scores%20by%20grade.png)
 
 The data for the freshman at Thomas High school for both reading and math scores were removed and placed with a NaN value, putting them at the bottom of each list.
 
 #### Scores by school spending
+
+##### Before
+![Scores by school spending before](https://github.com/Coachnmomof3/School_District_Analysis/blob/master/Resources/Scores%20by%20school%20spending%20before.png)
+##### After
 ![Scores by school spending](https://github.com/Coachnmomof3/School_District_Analysis/blob/master/Resources/Scores%20by%20school%20spending1.jpg)
+
 
 To start, Thomas High School was apart of the $630-644 group in which we saw major decreases in many different aspects. To start, we see the following categories decrease: Passing Math Percentage (From 73% to 67%), Passing Reading Percentage (Fromn 84% to 77%), Overall Passing Percentage(From 63% to 56%). On the other hand our averages did stay constant.
 
 #### Scores by school size
+
+##### Before
+![Scores by school size before](https://github.com/Coachnmomof3/School_District_Analysis/blob/master/Resources/Scores%20by%20school%20size%20before.png)
+##### After
 ![Scores by school size](https://github.com/Coachnmomof3/School_District_Analysis/blob/master/Resources/Scores%20by%20school%20size.png)
 
 Thomas High School is a Medium sized high school again saw a significant decrease in the following categories: Passing Math Percentage(From 94% to 88%), Passing Reading Percentage(From 97% to 91%), and Overall Passing Percentage(From 91% to 85%). Our averages stayed constant for both reading and math.
 
 #### Scores by school type
+##### Before
+![Scores by school type before](https://github.com/Coachnmomof3/School_District_Analysis/blob/master/Resources/Scores%20by%20school%20type%20before.png)
+
+##### After
 ![Scores by school type](https://github.com/Coachnmomof3/School_District_Analysis/blob/master/Resources/Scores%20by%20school%20type.png)
 
 Thomas High School is a Charter high school and saw a significant decrease in the following categories: Passing Math Percentage(From 94% to 90%), Passing Reading Percentage(From 97% to 93%), and Overall Passing Percentage(From 90% to 87%). Our averages stayed constant for both reading and math.
